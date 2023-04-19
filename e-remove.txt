@@ -1,0 +1,4 @@
+Build:
+javac FileReader.java
+Run:
+java FileReader

@@ -1,0 +1,4 @@
+Build:
+javac StringReader.java
+Run:
+java StringReader 
